@@ -47,10 +47,6 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [syedmoizhassan123@@gmail.com](mailto:glidexsol@gmail.com)
-* 🐦 Twitter: (add your link)
-* 💼 Fiverr: (your gig link)
-
----
+* 📧 Email: [syedmoizhassan123@@gmail.com](mailto:syedmoizhassan123@gmail.com)
 
 ⭐️ From MoizShah-227
