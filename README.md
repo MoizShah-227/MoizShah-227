@@ -35,7 +35,7 @@
 
 ## 📈 GitHub Stats
 
-![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoizShah-227&show_icons=true\&theme=radical)
+![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoizShah-227&show_icons=true&theme=radical)
 
 ---
 
