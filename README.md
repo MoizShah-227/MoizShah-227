@@ -6,3 +6,5 @@
 
 <!-- Streak Stats (shows your commit streak!) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=MoizShah-227&theme=radical&hide_border=true)
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg)
