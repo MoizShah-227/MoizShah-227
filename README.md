@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Full+Stack+Developer;Blockchain+Developer;MERN+Stack+Expert)
 # 👋 Hi, I'm Syed Moiz Hassan
 
 💻 Full Stack MERN Developer | ⚡ Blockchain Developer 
@@ -33,9 +34,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizShah-227&layout=compact&theme=radical)
----
 
 ## 🔥 Streak Stats
 
