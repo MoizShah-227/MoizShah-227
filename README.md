@@ -34,8 +34,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoizShah-227&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizShah-227&layout=compact&theme=radical)
 ---
 
 ## 🔥 Streak Stats
