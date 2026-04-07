@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Syed Moiz Hassan
 
-💻 Full Stack MERN Developer | ⚡ Blockchain Developer
+💻 Full Stack MERN Developer | ⚡ Blockchain Developer 
 🚀 Building scalable web apps & decentralized systems
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 BS Computer Science (BIIT, Rawalpindi)
-* 💼 Freelance Web Developer
-* 🔗 Working on Blockchain Voting System (VoteChain)
-* 🏗️ Building Real Estate & E-commerce platforms
+* 🎓 BS Computer Science
+* 💼 Freelance
+* 🔗 Working on Blockchain
+* 🏗️ Building Real Estate & smart contract
 
 ---
 
