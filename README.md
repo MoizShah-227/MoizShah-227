@@ -33,7 +33,8 @@
 * 🏡 Real Estate Platform with Chat (Socket.io)
 
 ---
-
+## 📈 GitHub Stats 
+![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoizShah-227\&show_icons=true\&theme=radical)
 
 ## 🔥 Streak Stats
 
